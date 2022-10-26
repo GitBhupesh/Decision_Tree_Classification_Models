@@ -11,6 +11,7 @@ Mushroom hunting (otherwise known as "shrooming") is enjoying new peaks in popul
 
 Use decision tree algorithm to predict whether a mushroom sample is poisonous or edible.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Mobile Price Prediction
 
@@ -21,4 +22,37 @@ Bob has started his own mobile company. He wants to give a tough fight to big co
 ## Problem Statement
 
 In this problem, you do not have to predict the actual price but a price range indicating how high the price is using Random Forest & Decision Tree.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Bank Customer Churn Prediction
+
+## Introduction
+
+Customer churn refers to the phenomenon when a customer leaves a company or an organization,in our case a bank. Some studies shows that accquiring new coustomers can cost 5 times than that of satisfying and retaining existing customers. Thus tracking of bank customer churn rate through prediction will help in reducing marketing costs, lead to increase in capital ,expanding total customers and a lot more.
+
+## Problem Statement
+
+In this problem, we have to Predict the Customer Churn for ABC Bank.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
