@@ -33,7 +33,7 @@ Customer churn refers to the phenomenon when a customer leaves a company or an o
 
 ## Problem Statement
 
-In this problem, we have to Predict the Customer Churn for ABC Bank.
+In this problem, we have to Predict the Customer Churn for ABC Bank or not.
 
 
 
